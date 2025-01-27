@@ -1,11 +1,11 @@
 LICENSE
 README.md
 pyproject.toml
-src/mypkg/__init__.py
-src/mypkg/__main__.py
-src/mypkg/app.py
-src/mypkg/main.py
-src/mypkg/view.py
+src/app/__init__.py
+src/app/__main__.py
+src/app/app.py
+src/app/main.py
+src/app/view.py
 src/seollal_bootcamp_base_abraham.egg-info/PKG-INFO
 src/seollal_bootcamp_base_abraham.egg-info/SOURCES.txt
 src/seollal_bootcamp_base_abraham.egg-info/dependency_links.txt

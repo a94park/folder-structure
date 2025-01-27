@@ -1,3 +1,5 @@
+fastapi[standard]~=0.115.6
+pydantic-settings
 
 [dev]
 pre-commit

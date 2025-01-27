@@ -4,6 +4,8 @@ Version: 0.1.0
 Summary: A base project for the Seollal bootcamp
 Author-email: "Bryan \"Beege\" Berry" <beege@codeseoul.org>, "Jaeyoon \"Jason\" Cho" <jaeyoon.cho@codeseoul.org>, "Abraham \"Abraham\" Park" <a.p.00@icloud.com>
 License-File: LICENSE
+Requires-Dist: fastapi[standard]~=0.115.6
+Requires-Dist: pydantic-settings
 Provides-Extra: dev
 Requires-Dist: pre-commit; extra == "dev"
 Requires-Dist: ruff; extra == "dev"
