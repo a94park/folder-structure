@@ -5,6 +5,7 @@ src/app/__init__.py
 src/app/__main__.py
 src/app/app.py
 src/app/main.py
+src/app/settings.py
 src/app/view.py
 src/seollal_bootcamp_base_abraham.egg-info/PKG-INFO
 src/seollal_bootcamp_base_abraham.egg-info/SOURCES.txt

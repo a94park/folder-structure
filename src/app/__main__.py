@@ -1,3 +1,3 @@
-from app.__main__ import main
+from app.main import main
 
 main()
